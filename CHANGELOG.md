@@ -1,5 +1,6 @@
 # MAXSwerve Java Template Changelog
 
+
 ## [2025.1] - 2025-01-04
 
 - Updates project for kickoff releases
